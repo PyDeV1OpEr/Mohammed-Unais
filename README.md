@@ -37,6 +37,22 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 
 ###
 
+<p align="left">
+  <a href="https://github.com/Mohammed-Unais?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Mohammed-Unais?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mohammed-Unais?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Mohammed-Unais?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Mohammed-Unais/">
+    <img alt="Commits" title="Total commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/Mohammed-Unais?color=FF6F61&style=for-the-badge&labelColor=FF4A3C&logo=git"/>
+  </a>
+  <a href="https://github.com/Mohammed-Unais/">
+    <img alt="Repositories" title="Total repositories" src="https://custom-icon-badges.demolab.com/github/repos/Mohammed-Unais?color=8A2BE2&style=for-the-badge&labelColor=6A1B9A&logo=github"/>
+  </a>
+</p>
+
+
 ### 📊 GitHub Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Unais&show_icons=true&theme=gruvbox)
