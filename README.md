@@ -37,8 +37,9 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PyDeV1OpEr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 📊 GitHub Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Unais&show_icons=true&theme=gruvbox)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
