@@ -36,9 +36,11 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 <br />
 
 ###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PyDeV1OpEr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+#
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PyDeV1OpEr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PyDeV1OpEr&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDeV1OpEr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
