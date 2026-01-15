@@ -6,8 +6,7 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 
 ---
 
-### 🧰 Language and Tools
-<!-- Web Development -->
+### 🧰 Languages and Tools
 <!-- Web Development -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -15,6 +14,7 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 
 <!-- Python & Data Science -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
@@ -35,13 +35,28 @@ I’m a 17-year-old aspiring AI engineer and web developer, building end-to-end 
 
 <br />
 
-###
-#
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PyDeV1OpEr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PyDeV1OpEr&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDeV1OpEr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-Unais&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Unais&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Unais&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
+    <img alt="Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL" target="_blank">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
